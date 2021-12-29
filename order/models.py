@@ -45,3 +45,9 @@ class OrderItem(models.Model):
 
     class Meta:
         db_table = 'order_items'
+
+
+
+
+
+        
